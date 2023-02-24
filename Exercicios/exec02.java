@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class exec2 {
+public class exec02 {
     public static void main(String[] args) {
         int num1 = Integer.parseInt(JOptionPane.showInputDialog("Insira o primeiro número: "));
         int num2 = Integer.parseInt(JOptionPane.showInputDialog("Insira o segundo número: "));

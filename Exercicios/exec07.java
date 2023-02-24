@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class exec7 {
+public class exec07 {
     public static void main(String[] args) {
         float num = Float.parseFloat(JOptionPane.showInputDialog("Insira um número real:"));
 

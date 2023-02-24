@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class exec3 {
+public class exec03 {
     public static void main(String[] args) {
         int num = Integer.parseInt(JOptionPane.showInputDialog("Insira um número:"));
         
