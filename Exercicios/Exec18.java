@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class Exec18 {
+public class exec18 {
     public static void main(String[] args) {
         String nome_completo = JOptionPane.showInputDialog("Insira um nome completo:");
         char[] nome = nome_completo.toCharArray();
